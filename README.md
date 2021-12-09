@@ -1,4 +1,4 @@
-# <img width="64" height="64" src="https://cdn.discordapp.com/avatars/811801222612254751/8575ba66cdc80bdab80fc4031926f589.webp" alt="socialmedia"> FORK 
+# <img width="64" height="64" src="https://cdn.discordapp.com/attachments/840481093979602985/918460104066600980/flat-music-icon-png-11.png" alt="Cloud-Rythm"> FORK 
     - IF YOU WANT TO HAVE THIS ON YOUR REPO JUST FORK IT
     - Support server = https://discord.gg/mmqHpEmXjU
 # Discord-Music-bot
