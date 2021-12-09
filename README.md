@@ -1,3 +1,6 @@
+# :trollface: FORK :trollface:
+    - IF YOU WANT TO HAVE THIS ON YOUR REPO JUST FORK IT
+    - Support server = https://discord.gg/mmqHpEmXjU
 # Discord-Music-bot
 Cloud Rythm project🌧 | Discord music bot | Lavalink | with message Intents & Slash commands
 # How to start ?
