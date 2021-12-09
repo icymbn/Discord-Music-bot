@@ -1,4 +1,4 @@
-# :trollface: FORK :trollface:
+# FORK 
     - IF YOU WANT TO HAVE THIS ON YOUR REPO JUST FORK IT
     - Support server = https://discord.gg/mmqHpEmXjU
 # Discord-Music-bot
