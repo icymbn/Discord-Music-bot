@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "description": "",
+  "repository": "",
+  "logo": "",
+  "keywords": [
+    "node",
+    "discord",
+    "youtube",
+    "music",
+    "bot",
+    "lavalink",
+  ],
+  "image": "",
+  "buildpacks": [
+    {
+      "url": ""
+    }
+  ],
+  "env": {
+    "Prefix": {
+      "description": "The Discord Bot Prefix",
+      "required": "true"
+    },
+    "Token": {
+      "description": "The Discord Bot Token (https://discord.com/developers/applications)",
+      "required": "true"
+    },
+    "Discord_ClientID": {
+      "description": "The Discord Bot ClientID",
+      "required": "true"
+    },
+    "Discord_ClientSecret": {
+      "description": "The Discord Bot ClientSecret",
+      "required": "true"
+    },
+    "Spotify_ClientID": {
+      "description": "Spotify ClientID. This is used if you want to use Spotify features for your bot. (https://developer.spotify.com/dashboard/)",
+      "required": "true"
+    },
+    "Spotify_ClientSecret": {
+      "description": "Spotify ClientSecret. This is used if you want to use Spotify features for your bot. (https://developer.spotify.com/dashboard/)",
+      "required": "true"
+    }
+  }
+}
