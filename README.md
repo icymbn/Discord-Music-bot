@@ -1,4 +1,4 @@
-# FORK 
+<h2 align="center"><img width="50" height="28" src="https://c.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif" alt="socialmedia"> FORK <img width="50" height="28" src="https://c.tenor.com/Ej3BJBhwt_0AAAAM/cute-kitty.gif" alt="socialmedia"></h2>
     - IF YOU WANT TO HAVE THIS ON YOUR REPO JUST FORK IT
     - Support server = https://discord.gg/mmqHpEmXjU
 # Discord-Music-bot
