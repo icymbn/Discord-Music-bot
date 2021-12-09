@@ -1,5 +1,5 @@
 # Discord-Music-bot
-Cloud Rythm project🌧 | Discord music bot | Lavalink
+Cloud Rythm project🌧 | Discord music bot | Lavalink | with message Intents & Slash commands
 # How to start ?
 step 1 = Fill botconfig.js<br>
 step 2 = npm install<br>
