@@ -11,7 +11,7 @@ module.exports = {
   aliases: ["inv"],
   /**
    *
-   * @param {import("../structures/DiscordMusicBot")} client
+   * @param {import("../structures/CloudRythmMain")} client
    * @param {import("discord.js").Message} message
    * @param {string[]} args
    * @param {*} param3
@@ -53,7 +53,7 @@ module.exports = {
   SlashCommand: {
     /**
      *
-     * @param {import("../structures/DiscordMusicBot")} client
+     * @param {import("../structures/CloudRythmMain")} client
      * @param {import("discord.js").Message} message
      * @param {string[]} args
      * @param {*} param3

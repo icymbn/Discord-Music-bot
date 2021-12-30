@@ -11,7 +11,7 @@ module.exports = {
   aliases: ["yt"],
   /**
    *
-   * @param {import("../structures/DiscordMusicBot")} client
+   * @param {import("../structures/CloudRythmMain")} client
    * @param {require("discord.js").Message} message
    * @param {string[]} args
    * @param {*} param3
@@ -54,7 +54,7 @@ __**[Join YouTube Together](https://discord.com/invite/${Invite.code})**__
     options: [],
     /**
      *
-     * @param {import("../structures/DiscordMusicBot")} client
+     * @param {import("../structures/CloudRythmMain")} client
      * @param {import("discord.js").Message} message
      * @param {string[]} args
      * @param {*} param3

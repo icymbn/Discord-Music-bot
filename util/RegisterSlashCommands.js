@@ -3,7 +3,7 @@ const path = require("path");
 
 /**
  * Register slash commands for a guild
- * @param {require("../structures/DiscordMusicBot")} client
+ * @param {require("../structures/CloudRythmMain")} client
  * @param {string} guild
  */
 module.exports = (client, guild) => {

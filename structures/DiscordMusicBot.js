@@ -16,7 +16,7 @@ const facebook = require("erela.js-facebook");
 require("discordjs-activity"); // for yt together  
 require("./EpicPlayer");
 
-class DiscordMusicBot extends Client {
+class CloudRythmMain extends Client {
   constructor(props) {
     super(props);
 
@@ -266,4 +266,4 @@ client.on('message', async message => {
   }
 }
 keepAlive();
-module.exports = DiscordMusicBot;
+module.exports = CloudRythmMain;

@@ -1,5 +1,5 @@
-const DiscordMusicBot = require("./structures/DiscordMusicBot");
-const client = new DiscordMusicBot();
+const CloudRythmMain = require("./structures/CloudRythmMain");
+const client = new CloudRythmMain();
 
 client.build();
 

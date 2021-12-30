@@ -1,8 +1,8 @@
-const { DiscordMusicBot } = require("../structures/DiscordMusicBot");
+const { CloudRythmMain } = require("../structures/CloudRythmMain");
 const { VoiceState, MessageEmbed } = require("discord.js");
 /**
  *
- * @param {DiscordMusicBot} client
+ * @param {CloudRythmMain} client
  * @param {VoiceState} oldState
  * @param {VoiceState} newState
  * @returns {Promise<void>}
