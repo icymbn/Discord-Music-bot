@@ -138,7 +138,7 @@ module.exports = {
         if (!cmd)
           return client.sendTime(
             interaction,
-            `❌ | Unable to find that command.`
+            `❌ | Unable to Find ThaT command.`
           );
 
         let embed = new MessageEmbed()

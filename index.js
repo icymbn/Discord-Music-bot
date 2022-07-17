@@ -7,12 +7,12 @@ client.on('ready', () => {
 
   //==========Join Bot=============================
 client.on('guildCreate', giuld => {
-  let logbot = client.channels.cache.get('CHANNEL-ID').send(`${client.user.username} Added on | **` + giuld.name + "** |")
+  let logbot = client.channels.cache.get('CHANNEL-ID').send(`${client.user.username} added on | **` + giuld.name + "** |")
   console.log("Bot Added on | **" + giuld.name + "** |")
 })
 //========Leave Bot================================
 client.on('guildDelete', giuld => {
-  let logbot = client.channels.cache.get('CHANNEL-ID').send(`${client.user.username} Kicked on | **` + giuld.name + "** |")
+  let logbot = client.channels.cache.get('CHANNEL-ID').send(`${client.user.username} kicked on | **` + giuld.name + "** |")
   console.log("Bot Kicked on | **" + giuld.name + "** |")
 })
 });
